@@ -50,9 +50,9 @@ def find_prime_list ( n ):
 		if ( quotient  == 1 ):
 			prime_list.append(i)
 			break
-		else: 
-			prime_list.append(i)
-			dividend = quotient
+ 
+		prime_list.append(i)
+		dividend = quotient
 
 	return prime_list 
 
