@@ -13,3 +13,4 @@ Problems Solved
 * Largest palindrome product
 * Sum square difference
 * Largest product in a series
+* [Largest prime factor](https://github.com/ruzette/projecteulersolutions/blob/master/src/primefactors.py)
