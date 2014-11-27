@@ -15,12 +15,12 @@ strA = list(str(a))
 
 # Determines the maximum product among the list of 13 adjacent digits
 # in the 1000-digit number. 
-def GetProductAdjacentDigits(numStrList, maxCount):
+def get_product_adjacent_digits(numStrList, maxCount):
 	
 	maxProduct = 1
 	
 	for i in range (0, len(numStrList)-maxCount):	
-		product = GetProduct(i, maxCount, numStrList)
+		product = get_product(i, maxCount, numStrList)
 	
 		if (maxProduct <= product):
 			maxProduct = product
@@ -28,7 +28,7 @@ def GetProductAdjacentDigits(numStrList, maxCount):
 	return maxProduct
 
 # Gets the product in the list.
-def GetProduct (start, end, numStrList):
+def get_product (start, end, numStrList):
 	
 	product = 1
 	
@@ -39,7 +39,7 @@ def GetProduct (start, end, numStrList):
 
 
 # Retrieve the product from 1000-digit number
-product = GetProductAdjacentDigits(strA, 13)
+product = get_product_adjacent_digits(strA, 13)
 
 # Value of the 13 adjacent digits in the 1000-digit number.
 print product
