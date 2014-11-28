@@ -8,8 +8,8 @@ Problems Solved
 ---------------
 
 * Multiples of 3 and 5
-* Even Fibonacci numbers
+* [Even Fibonacci numbers](https://github.com/ruzette/project-euler-solutions/blob/master/src/even_fib.py)
 * Largest palindrome product
 * Sum square difference
-* [Largest product in a series](https://github.com/ruzette/project-euler-solutions/blob/master/src/largestproduct.py)
-* [Largest prime factor](https://github.com/ruzette/projecteulersolutions/blob/master/src/primefactors.py)
+* [Largest product in a series](https://github.com/ruzette/project-euler-solutions/blob/master/src/largest_product.py)
+* [Largest prime factor](https://github.com/ruzette/projecteulersolutions/blob/master/src/prime_factors.py)
