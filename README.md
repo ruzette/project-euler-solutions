@@ -13,7 +13,7 @@ Problems Solved
 * [Sum square difference](https://github.com/ruzette/project-euler-solutions/blob/master/src/sum_square_difference.py)
 * [Largest product in a series](https://github.com/ruzette/project-euler-solutions/blob/master/src/largest_product.py)
 * [Largest prime factor](https://github.com/ruzette/projecteulersolutions/blob/master/src/prime_factors.py)
-* [Smallest product](https://github.com/ruzette/projecteulersolutions/blob/master/src/smallest_product.py)
+* [Smallest product](https://github.com/ruzette/projecteulersolutions/blob/master/src/smallest_multiple.py)
 
 
 
