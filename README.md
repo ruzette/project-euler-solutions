@@ -11,5 +11,5 @@ Problems Solved
 * Even Fibonacci numbers
 * Largest palindrome product
 * Sum square difference
-* [Largest product in a series](https://github.com/ruzette/project-euler-solutions/blob/master/src/largestproduct.py)
-* [Largest prime factor](https://github.com/ruzette/projecteulersolutions/blob/master/src/primefactors.py)
+* [Largest product in a series](https://github.com/ruzette/project-euler-solutions/blob/master/src/largest_product.py)
+* [Largest prime factor](https://github.com/ruzette/projecteulersolutions/blob/master/src/prime_factors.py)
