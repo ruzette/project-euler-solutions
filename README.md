@@ -15,6 +15,7 @@ Problems Solved
 * [Largest prime factor](https://github.com/ruzette/projecteulersolutions/blob/master/src/prime_factors.py)
 * [Smallest product](https://github.com/ruzette/projecteulersolutions/blob/master/src/smallest_multiple.py)
 
-
-
-
+Yearly Goal
+---------------
+2014 : 25 Problems Solved  (Total: 25)
+2015 : 100 Problems Solved (Total: 125)
