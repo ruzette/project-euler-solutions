@@ -17,5 +17,5 @@ Problems Solved
 
 Yearly Goal
 ---------------
-1. 2014 : 25 Problems Solved  (Total: 25)
-2. 2015 : 100 Problems Solved (Total: 125)
+* 2014 : 25 Problems Solved  (Total: 25)
+* 2015 : 100 Problems Solved (Total: 125)
