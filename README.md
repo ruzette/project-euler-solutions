@@ -14,6 +14,7 @@ Problems Solved
 1. [Largest product in a series](https://github.com/ruzette/project-euler-solutions/blob/master/src/largest_product.py)
 1. [Largest prime factor](https://github.com/ruzette/projecteulersolutions/blob/master/src/prime_factors.py)
 1. [Smallest product](https://github.com/ruzette/projecteulersolutions/blob/master/src/smallest_multiple.py)
+1. [10001st Prime](https://github.com/ruzette/project-euler-solutions/blob/master/src/prime_nth.py)
 
 Yearly Goal
 ---------------
