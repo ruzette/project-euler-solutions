@@ -16,7 +16,7 @@ def find_prime_nth(n):
 	primes = []
 	i = 2
 	
-	while (len(primes) <= n):
+	while (len(primes) < n):
 		if ( isPrime(i, primes) == True ) : 
 			primes.append(i)
 		i = i + 1
