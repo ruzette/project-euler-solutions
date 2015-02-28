@@ -15,6 +15,7 @@ Problems Solved
 1. [Largest prime factor](https://github.com/ruzette/projecteulersolutions/blob/master/src/prime_factors.py)
 1. [Smallest product](https://github.com/ruzette/projecteulersolutions/blob/master/src/smallest_multiple.py)
 1. [10001st Prime](https://github.com/ruzette/project-euler-solutions/blob/master/src/prime_nth.py)
+1. [Special Pythagorean Triplet](https://github.com/ruzette/project-euler-solutions/blob/master/src/pythagoras.py)
 
 Yearly Goal
 ---------------
