@@ -21,3 +21,6 @@ Yearly Goal
 ---------------
 * 2014 : 25 Problems Solved  (Total: 25)
 * 2015 : 100 Problems Solved (Total: 125)
+
+
+![status]: https://projecteuler.net/profile/ruzette.png "Project Euler Progress Status"
