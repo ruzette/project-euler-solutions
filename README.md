@@ -16,11 +16,14 @@ Problems Solved
 1. [Smallest product](https://github.com/ruzette/projecteulersolutions/blob/master/src/smallest_multiple.py)
 1. [10001st Prime](https://github.com/ruzette/project-euler-solutions/blob/master/src/prime_nth.py)
 1. [Special Pythagorean Triplet](https://github.com/ruzette/project-euler-solutions/blob/master/src/pythagoras.py)
+1. [Power Digit Sum](https://github.com/ruzette/project-euler-solutions/blob/master/src/power_digit_sum.py)
+1. [Factorial Digit Sum](https://github.com/ruzette/project-euler-solutions/blob/master/src/factorial_digit_sum.py)
 
 Yearly Goal
 ---------------
 * 2014 : 25 Problems Solved  (Total: 25)
 * 2015 : 100 Problems Solved (Total: 125)
 
-
+Progress
+---------------
 ![status](https://projecteuler.net/profile/ruzette.png "Project Euler Progress Status")
