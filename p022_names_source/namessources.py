@@ -46,7 +46,7 @@ def get_total_score(names_score_list):
     return total_names_scores
 
 def names_sources():
-    names_list = get_data()
+    names_list  = get_data()
     sorted_names_list = sorted(names_list)
     names_score_list = get_sum_list(sorted_names_list)
     total_names_scores = get_total_score(names_score_list)
