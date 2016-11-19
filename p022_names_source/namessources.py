@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 """
-
 Problem 22 - Names Sources
 
 Using names.txt, a 46K text file containing over five-thousand first names, 
