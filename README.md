@@ -6,6 +6,6 @@ This is a personal git hub repository of the problems I've solved on Project Eul
 
 Progress
 ---------------
-- Solved 17 out of 579 problems
+- Solved 18 out of 579 problems
 - Baby Steps : Solved Three Problems 
 - Decathlete : Solved Ten Problems
